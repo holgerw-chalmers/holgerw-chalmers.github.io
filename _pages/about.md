@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in industrial energy systems at Chalmers [Univerisity of Technology](https://www.chalmers.se), Division of Energy Technology, Department of Space, Earth and Environment.
+I am a PhD student in industrial energy systems at Chalmers [University of Technology](https://www.chalmers.se), Division of Energy Technology, Department of Space, Earth and Environment.
 
 A data-driven personal website
 ======
