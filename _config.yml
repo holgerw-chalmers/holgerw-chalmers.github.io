@@ -88,8 +88,8 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=-BzIhvYAAAAJ"
   email            : "holgerw@chalmers.se"
-  researchgate     :  "https://www.researchgate.net/profile/Holger_Wiertzema"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Holger_Wiertzema"
+  uri              : "http://www.chalmers.se/en/Staff/Pages/holgerw.aspx"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://se.linkedin.com/in/holger-wiertzema"
   orcid            : "http://orcid.org/0000-0002-4204-0102"
   pinterest        :
   soundcloud       :
