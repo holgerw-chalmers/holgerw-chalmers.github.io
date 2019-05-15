@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+I am a PhD student in industrial energy systems at Chalmers [Univerisity of Technology](https://www.chalmers.se), Division of Energy Technology, Department of Space, Earth and Environment.
 
 A data-driven personal website
 ======
