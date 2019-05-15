@@ -15,9 +15,10 @@ The project aims at building up knowledge about the opportunities to shift towar
 
 [Link to project description at Energimyndigheten](http://www.energimyndigheten.se/forskning-och-innovation/projektdatabas/sokresultat/?projectid=23530)
 
+Please contact me to get more information about the project an possible collaboration options
 
 
-Ongoing work / finished publications / status updates...
+Ongoing work / finished publications / status updates / work packages / collaboration
 ======
 * Summer 2015: Research Assistant
   * Github University
