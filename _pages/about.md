@@ -10,6 +10,19 @@ redirect_from:
 
 I am a PhD student in industrial energy systems at Chalmers [University of Technology](https://www.chalmers.se), Division of Energy Technology, Department of Space, Earth and Environment.
 
-A data-driven personal website
+Research focus: Electrification of industrial processes
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I started my Phd in February 2017 and focus since then on the electrification of industrial processes. My correspondent research project is PROCEL.
+
+Contact
+======
+Holger Wiertzema
+PhD Student
+Department of Space, Earth and Environment
+Division of Energy Technology
++46(0)31 772 14 46
+
+Chalmers University of Technology
+SE-412 96 Göteborg, Sweden
+
+Office: Hörsalsvägen 7B, room 4127
