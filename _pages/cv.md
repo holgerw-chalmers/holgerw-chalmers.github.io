@@ -11,43 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Environmental Engineering, Hamburg University of Applied Sciences, 2011
-* M.Sc. in Sustainable Energy Systems, Chalmers University of Technology, 2013
-* Ph.D in Industrial Energy Systems, Chalmers University of Technology, 2022 (expected)
+* B.Sc. in Environmental Engineering, [Hamburg University of Applied Sciences](https://www.haw-hamburg.de), 2011
+* M.Sc. in Sustainable Energy Systems, [Chalmers University of Technology](https://www.chalmers.se), 2013
+* Ph.D in Industrial Energy Systems, [Chalmers University of Technology](https://www.chalmers.se), 2022 (expected)
 
 Work experience
 ======
 * Oct 2013 - Dec 2016: Portfolio Manager
-  * Stadtwerke Osnabrück AG
+  * [Stadtwerke Osnabrück AG](https://www.stadtwerke-osnabrueck.de)
   * Division of Energy Purchase and Power Plants
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* German (Native)
+* Low German (Native)
+* Englisch (Full professional proficiency)
+* Swedish (Limited working proficiency)
 
-Publications
+Hobbies
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Sailing: [Chalmers Sailing Society](http://chss.chs.chalmers.se)
