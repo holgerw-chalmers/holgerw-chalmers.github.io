@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Environmental Engineering, Hamburg University of Applied Sciences, 2011
+* M.Sc. in Sustainable Energy Systems, Chalmers University of Technology, 2013
+* Ph.D in Industrial Energy Systems, Chalmers University of Technology, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2013 - Dec 2016: Portfolio Manager
+  * Stadtwerke Osnabrück AG
+  * Division of Energy Purchase and Power Plants
   
 Skills
 ======
