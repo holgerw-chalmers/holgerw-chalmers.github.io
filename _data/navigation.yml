@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Teaching"
+  - title: "Teaching/Supervision"
     url: /teaching/
   
-  - title: "Supervision"
-    url: /supervision/
+  #- title: "Supervision"
+  # url: /supervision/
   
   - title: "CV"
     url: /cv/
