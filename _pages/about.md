@@ -16,10 +16,10 @@ I started my Phd in February 2017 and focus since then on the electrification of
 
 Contact
 ======
-Holger Wiertzema
-PhD Student
-Department of Space, Earth and Environment
-Division of Energy Technology
+Holger Wiertzema  
+PhD Student  
+Department of Space, Earth and Environment  
+Division of Energy Technology  
 +46(0)31 772 14 46
 
 Chalmers University of Technology
