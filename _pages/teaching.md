@@ -16,6 +16,6 @@ Teaching
 
 Supervision
 ======
-* Master thesis projects
+* Completed master's thesis projects
   * Mar 2019: ["Evaluation of Electric and Hybrid Steam Generation for a Chemical Plant under Future Energy Market Scenarios"](http://publications.lib.chalmers.se/records/fulltext/256671/256671.pdf)
   * Mar 2019: "Integration of Mechnical Vapour Recompression Heat Pumps into an Existing Oil Refinery – Impact on Steam Balance, Cost and CO2 emissions"
