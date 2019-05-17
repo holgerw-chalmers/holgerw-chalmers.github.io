@@ -17,9 +17,8 @@ Education
 
 Work experience
 ======
-* Oct 2013 - Dec 2016: Portfolio Manager
-  * [Stadtwerke Osnabrück AG](https://www.stadtwerke-osnabrueck.de)
-  * Division of Energy Purchase and Power Plants
+* Portfolio Manager (Division of Energy Purchase and Power Plants), [Stadtwerke Osnabrück AG](https://www.stadtwerke-osnabrueck.de), Oct 2013 - Dec 2016
+
   
 Languages
 ======
