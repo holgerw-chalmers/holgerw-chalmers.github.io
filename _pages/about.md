@@ -12,7 +12,7 @@ I am a PhD student in Industrial Energy Systems at [Chalmers University in Gothe
 
 My research focus: Electrification of industrial processes
 ======
-My research focusses on the electrification of industrial processes to promote the decarbonisation of the industrial sector. The objective is to enhance the knowledge on process electrification technologies including techno-economic and environmental assessments under possible future energy market conditions. This will also allow to compare electrification with other decarbonisation options. My correspodent research project is [PROCEL](https://holgerw-chalmers.github.io/procel/).
+My research focusses on the electrification of industrial processes to promote the decarbonisation of the industrial sector. The objective is to enhance the knowledge on process electrification technologies including techno-economic and environmental assessments under possible future energy market conditions. This will also allow to compare electrification with other decarbonisation options. My correspondent research project is [PROCEL](https://holgerw-chalmers.github.io/procel/).
 
 Contact
 ======
