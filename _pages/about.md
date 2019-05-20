@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in industrial energy systems at Chalmers [University of Technology](https://www.chalmers.se), Division of Energy Technology, Department of Space, Earth and Environment.
+I am a PhD student in Industrial Energy Systems at [Chalmers University in Gothenburg](https://www.chalmers.se) (Sweden), Division of Energy Technology, Department of Space, Earth and Environment since February 2017. Before, that I obtained a masters degree in "Sustainable Energy Systems".
 
 My research focus: Electrification of industrial processes
 ======
-I started my Phd in February 2017 and focus since then on the electrification of industrial processes. My correspondent research project is PROCEL.
+My research focusses on the electrification of industrial processes to promote the decarbonisation of the industrial sector. The objective is to enhance the knowledge on process electrification technologies including techno-economic and environmental assessments under possible future energy market conditions. This will also allow to compare electrification with other decarbonisation options. My correspodent research project is [PROCEL](https://holgerw-chalmers.github.io/procel/).
 
 Contact
 ======
 Holger Wiertzema  
-PhD Student  
+PhD student  
 Department of Space, Earth and Environment  
 Division of Energy Technology  
 +46(0)31 772 14 46
