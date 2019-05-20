@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Holger Wiertzema"
 title_separator          : "-"
 name                     : &name "Holger Wiertzema"
-description              : &description "PhD Student in Industrial Energy Systems at Chalmers University of Technology"
+description              : &description "PhD student in Industrial Energy Systems at Chalmers University of Technology, Sweden"
 url                      : https://holgerw-chalmers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "holgerw-chalmers.github.io.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Holger Wiertzema"
   avatar           : "Holger_Wiertzema170.jpg"
-  bio              : "PhD Student in Industrial Energy Systems at Chalmers University of Technology"
+  bio              : "PhD student in Industrial Energy Systems at Chalmers University of Technology, Sweden"
   location         : "Gothenburg, Sweden"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
