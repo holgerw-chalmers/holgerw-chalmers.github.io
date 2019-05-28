@@ -16,10 +16,14 @@ The PROCEL project aims at building up knowledge about the opportunities to shif
 Feel free to contact me for further information about my research project including ongoing work!
 
 <!---
+Create a results collection (link to publications, final report, theses, workshops...)
 Ongoing work / finished publications / status updates / work packages / collaboration
 ======
-* Summer 2015: Research Assistant
-  * Github University
-* Fall 2015: Research Assistant
-  * Github University
+* Publications
+  * Journal paper methodology (preprint)
+  * Journal paper electricity price (preprint)
+  * Journal paper Johan
+* Case studies
+  * Membranes in pulp and paper
+  * Electric steam generation extended
 --->
