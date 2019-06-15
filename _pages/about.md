@@ -17,7 +17,7 @@ My research focusses on the electrification of industrial processes to promote t
 Contact
 ======
 Holger Wiertzema  
-PhD student  
+PhD Student  
 Department of Space, Earth and Environment  
 Division of Energy Technology  
 +46(0)31 772 14 46
