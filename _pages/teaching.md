@@ -11,8 +11,9 @@ redirect_from:
 
 Teaching
 ======
-* 2017/2018: Teaching assistant in [KVM013 - Industrial energy systems](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=29668&parsergrp=3)
-* 2018/2019: Teaching assistant in [KVM013 - Industrial energy systems](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=29668&parsergrp=3)
+* 2017/2018: Teaching assistant in KVM013 - Industrial energy systems
+* 2018/2019: Teaching assistant in KVM013 - Industrial energy systems
+* 2019/2020: Teaching assistant in KVM013 - Industrial energy systems
 
 Supervision
 ======
