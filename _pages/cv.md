@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Environmental Engineering, [Hamburg University of Applied Sciences](https://www.haw-hamburg.de), 2011
-  * Internship
+  * Bachelor thesis written at the [Solar Energy Research Center (SERC](https://www.du.se/en/research/energy-and-built-environments/solar-energy-research-center-serc/)
 * M.Sc. in Sustainable Energy Systems, [Chalmers University of Technology](https://www.chalmers.se), 2013
 * Ph.D in Industrial Energy Systems, [Chalmers University of Technology](https://www.chalmers.se), 2022 (expected)
 
