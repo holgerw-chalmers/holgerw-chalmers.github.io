@@ -14,7 +14,8 @@ My Research Focus: Electrification of Industrial Processes
 ======
 My research focusses on the electrification of industrial processes to promote the decarbonisation of the industrial sector. The objective is to enhance the knowledge on process electrification technologies including techno-economic and environmental assessments under possible future energy market conditions. This will also allow to compare electrification with other decarbonisation options. My correspondent research project is [PROCEL](https://holgerw-chalmers.github.io/procel/).
 
-Update 2019-10-25: Master thesis proposal within the PROCEL project
+Update 2019-10-25:  
+Master thesis proposal within the PROCEL project
 ======
 Have a look at our master thesis proposal about ["Integration of Electric Plasma Calcination in Pulp and Paper Plants"](https://www.chalmers.se/SiteCollectionDocuments/SEE/Masters-thesis-projects/SEE_Master_thesis_2019_electric_plasma_calcination_2019-10-15.pdf) and contact me if you are interested.
 
