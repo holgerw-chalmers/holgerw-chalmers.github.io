@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Industrial Energy Systems, [Chalmers University of Technology](https://www.chalmers.se), 2022 (expected)
 * M.Sc. in Sustainable Energy Systems, [Chalmers University of Technology](https://www.chalmers.se), 2013
-  * Master thesis written at the division of Electric Power Engineering, Chalmers University of Technology
+  * Master thesis written at the Division of Electric Power Engineering, Chalmers University of Technology
 * B.Sc. in Environmental Engineering, [Hamburg University of Applied Sciences](https://www.haw-hamburg.de), 2011
   * Bachelor thesis written at the [Solar Energy Research Center (SERC)](https://www.du.se/en/research/energy-and-built-environments/solar-energy-research-center-serc/)
 
