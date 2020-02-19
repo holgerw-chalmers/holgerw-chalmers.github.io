@@ -11,7 +11,7 @@ redirect_from:
 
 Teaching
 ======
-* Since 2017: Teaching assistant in KVM013 - Industrial energy systems (the course is given anually)
+* Since 2017: Teaching assistant in KVM013 - Industrial Energy Systems (the course is given anually)
 
 Supervision
 ======
