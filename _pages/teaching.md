@@ -11,9 +11,7 @@ redirect_from:
 
 Teaching
 ======
-* 2017/2018: Teaching assistant in KVM013 - Industrial energy systems
-* 2018/2019: Teaching assistant in KVM013 - Industrial energy systems
-* 2019/2020: Teaching assistant in KVM013 - Industrial energy systems
+* Since 2017 (anually): Teaching assistant in KVM013 - Industrial energy systems
 
 Supervision
 ======
