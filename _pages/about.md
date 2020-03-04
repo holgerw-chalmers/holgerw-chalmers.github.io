@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Industrial Energy Systems at [Chalmers University in Gothenburg](https://www.chalmers.se) (Sweden) in the Division of Energy Technology since February 2017. Before, that I obtained a masters degree in "Sustainable Energy Systems".
+I am a PhD student in Industrial Energy Systems at [Chalmers University in Gothenburg](https://www.chalmers.se) (Sweden) in the Division of Energy Technology since February 2017. Before, that I obtained a masters degree in "Sustainable Energy Systems" and worked as portfolio manager for renewable electricity.
 
 My Research Focus: Electrification of Industrial Processes
 ======
