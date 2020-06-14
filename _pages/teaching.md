@@ -19,5 +19,6 @@ Supervision
   * 2020: "Integration of Electric Plasma Calcination in Pulp and Paper Plants"
 
 * Completed master's thesis projects
-  * Mar 2019: ["Evaluation of Electric and Hybrid Steam Generation for a Chemical Plant under Future Energy Market Scenarios"](http://publications.lib.chalmers.se/records/fulltext/256671/256671.pdf)
+  * June 2020: ["Integration of Electric Plasma Calcination in Pulp and Paper Plants"](https://odr.chalmers.se/bitstream/20.500.12380/300839/1/MSc%20Thesis%20Elin%20Andersson%20%2b%20Arvid%20Skogstr%c3%b6m%20June%202020.pdf)
+  * Mar 2019: ["Evaluation of Electric and Hybrid Steam Generation for a Chemical Plant under Future Energy Market Scenarios"](https://odr.chalmers.se/bitstream/20.500.12380/256671/1/256671.pdf)
   * Mar 2019: "Integration of Mechnical Vapour Recompression Heat Pumps into an Existing Oil Refinery – Impact on Steam Balance, Cost and CO2 emissions"
