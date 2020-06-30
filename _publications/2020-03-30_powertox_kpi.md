@@ -1,5 +1,5 @@
 ---
-title: "Bottom-up methodology for assessing electrification options for deep decarbonisation of industrial processes"
+title: "Opportunities and barriers for implementation of Power-to-X (P2X) technologies in the West Sweden Chemicals and Materials Cluster's process industries"
 collection: publications
 permalink: /publication/2018-06-11-bottomup-methodology-eceee
 excerpt: 'In this conference paper, a bottom-up methodology for the assessment of electrification options for industrial processes is presented and illutrated by means of a case study.'
