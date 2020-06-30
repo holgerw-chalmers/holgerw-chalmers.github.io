@@ -6,7 +6,7 @@ excerpt: 'In this report, opportunities and barriers for the introduction of P2X
 date: 2020-03-30
 venue: 'Klimatledande processindustri'
 paperurl: ''
-citation: 'Anna-Karin Jannasch, A.-K., Pihl, H., Persson, M., Svensson, E., Harvey, S. and Wiertzema, H. (2020). Opportunities and barriers for implementation of Power-to-X (P2X) technologies in the West Sweden Chemicals and Materials Cluster's process industries. RISE Report 2020.'
+citation: 'Anna-Karin Jannasch, A.-K., Pihl, H., Persson, M., Svensson, E., Harvey, S. and Wiertzema, H. (2020). Opportunities and barriers for implementation of Power-to-X (P2X) technologies in the West Sweden Chemicals and Materials Cluster's process industries. <i>Eceee Industrial Summer Study Proceedings</i>RISE Report 2020.'
 ---
 
 _Summary_  
