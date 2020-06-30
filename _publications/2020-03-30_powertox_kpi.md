@@ -4,11 +4,10 @@ collection: publications
 permalink: /publication/2020-03-30_powertox_kpi
 excerpt: 'In this report, opportunities and barriers for the introduction of P2X technologies in the process industries of West Sweden Chemicals and Materials Cluster were identified. The project was carried out within the initiative Klimatledance processindustri.'
 date: 2020-03-30
-venue: ''
+venue: 'test'
 paperurl: 'https://www.johannebergsciencepark.com/sites/default/files/M%C3%B6jligheter%20och%20hinder%20P2X_final.pdf'
 citation: 'Anna-Karin Jannasch, A.-K., Pihl, H., Persson, M., Svensson, E., Harvey, S. and Wiertzema, H. (2020). Opportunities and barriers for implementation of Power-to-X (P2X) technologies in the West Sweden Chemicals and Materials Cluster's process industries. RISE Report 2020.'
 ---
-**This paper present a bottom-up assessment methodology for electrification and is illustrated by means of a case study.**
 
 _Summary_  
 The interest for industrial electrification is currently increasing rapidly as it has been identified as one important strategy for achieving climate neutrality. This is for example illustrated by the initialization of several larger industrial cross-sectorial projects (e.g. HYBRIT, CemZero, co-operation Preem-Vattenfall) and supporting R&D-programs in Sweden and Europe during the past few years. Recently, the chemical industry in the Swedish region Västra Götaland has also shown an increasing interest for P2X, and the initiative Klimatledande processindustri (KPI) (in eng. Climate smart industry), coordinated byt he West Sweden Chemicals and Materials Cluster, has identified P2X as a prioritized R&D area.
