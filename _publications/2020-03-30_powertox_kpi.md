@@ -1,8 +1,8 @@
 ---
 title: "Opportunities and barriers for implementation of Power-to-X (P2X) technologies in the West Sweden Chemicals and Materials Cluster's process industries"
 collection: publications
-permalink: /publication/2020-03-30_powertox_kpi.md
-excerpt: 'In this report, opportunities and barriers for the introduction of P2X technologies in the process industries of West Sweden Chemicals and Materials Cluster were identified. The project was carried out within the initiative Klimatledance processindustri'
+permalink: /publication/2020-03-30_powertox_kpi
+excerpt: 'In this report, opportunities and barriers for the introduction of P2X technologies in the process industries of West Sweden Chemicals and Materials Cluster were identified. The project was carried out within the initiative Klimatledance processindustri.'
 date: 2020-03-30
 venue: ''
 paperurl: 'https://www.johannebergsciencepark.com/sites/default/files/M%C3%B6jligheter%20och%20hinder%20P2X_final.pdf'
