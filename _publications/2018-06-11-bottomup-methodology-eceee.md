@@ -8,7 +8,7 @@ venue: 'Eceee Industrial Summer Study Proceedings'
 paperurl: ''
 citation: 'Wiertzema, H., Åhman, M., & Harvey, S. (2018). Bottom-up methodology for assessing electrification options for deep decarbonisation of industrial processes. Paper presented at the <i>Eceee Industrial Summer Study Proceedings</i>, 2018-June 389-397.'
 ---
-**This paper present a bottom-up assessment methodology for electrification and is illustrated by means of a case study.**
+**This paper presents a bottom-up assessment methodology for electrification and is illustrated by means of a case study.**
 
 _Abstract_  
 Industrial processes currently account for a signifcant share (25–35 %) of the world’s total energy demand and related emissions. During recent years, the amount of low-carbon electricity from renewable energy sources (such as wind and solar) has increased continuously. Tere is therefore an increasing interest
