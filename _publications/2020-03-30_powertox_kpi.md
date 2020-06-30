@@ -2,7 +2,7 @@
 title: "Opportunities and barriers for implementation of Power-to-X (P2X) technologies in the West Sweden Chemicals and Materials Cluster's process industries"
 collection: publications
 permalink: /publication/2020-03-30_powertox_kpi
-excerpt: 'In this conference paper, a bottom-up methodology for the assessment of electrification options for industrial processes is presented and illutrated by means of a case study.'
+excerpt: 'In this report, opportunities and barriers for the introduction of P2X technologies in the process industries of West Sweden Chemicals and Materials Cluster were identified. The project was carried out within the initiative Klimatledance processindustri.'
 date: 2018-06-11
 venue: 'Eceee Industrial Summer Study Proceedings'
 paperurl: ''
