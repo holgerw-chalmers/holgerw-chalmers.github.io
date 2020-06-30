@@ -6,7 +6,7 @@ excerpt: 'In this report, opportunities and barriers for the introduction of P2X
 date: 2020-03-30
 venue: ''
 paperurl: 'https://www.johannebergsciencepark.com/sites/default/files/M%C3%B6jligheter%20och%20hinder%20P2X_final.pdf'
-citation: 'Wiertzema, H., Åhman, M., & Harvey, S. (2018). Bottom-up methodology for assessing electrification options for deep decarbonisation of industrial processes.'
+citation: 'Wiertzema, H., Åhman, M., & Harvey, S. (2018). Opportunities and barriers for implementation of Power-to-X (P2X) technologies in the West Sweden Chemicals and Materials Cluster's process industries.'
 ---
 
 _Summary_  
