@@ -13,6 +13,8 @@ The PROCEL project aims at building up knowledge about the opportunities to shif
 
 [Link to the project description at the Swedish Energy Agency](http://www.energimyndigheten.se/forskning-och-innovation/projektdatabas/sokresultat/?projectid=23530)
 
+[Publications within the PROCEL project](http://www.energimyndigheten.se/forskning-och-innovation/projektdatabas/sokresultat/?projectid=23530)
+
 Feel free to contact me for further information about my research project including ongoing work!
 
 <!---
