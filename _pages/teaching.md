@@ -15,7 +15,7 @@ Teaching
 
 Supervision
 ======
-* Ongoing master's thesis project
+* Ongoing master's thesis projects
   * 2021: "Assessing the impact of future electrification of oil refineries on theGothenburg electricity system"
 
 * Completed master's thesis projects
