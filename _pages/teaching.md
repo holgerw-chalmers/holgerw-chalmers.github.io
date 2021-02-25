@@ -16,7 +16,7 @@ Teaching
 Supervision
 ======
 * Ongoing master's thesis project
-  * none
+  * 2021: "Assessing the impact of future electrification of oil refineries on theGothenburg electricity system"
 
 * Completed master's thesis projects
   * June 2020: ["Integration of Electric Plasma Calcination in Pulp and Paper Plants"](https://odr.chalmers.se/bitstream/20.500.12380/300839/1/MSc%20Thesis%20Elin%20Andersson%20%2b%20Arvid%20Skogstr%c3%b6m%20June%202020.pdf)
