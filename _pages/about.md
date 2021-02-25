@@ -14,6 +14,11 @@ My Research Focus: Electrification of Industrial Processes
 ======
 My research focusses on the electrification of industrial processes to promote the decarbonisation of the industrial sector. The objective is to enhance the knowledge on process electrification technologies including techno-economic and environmental assessments under possible future energy market conditions. This will also allow to compare electrification with other decarbonisation options. My correspondent research project is [PROCEL](https://holgerw-chalmers.github.io/procel/).
 
+Research Network on Industrial Decarbonisation (RENEW-Industry)
+======
+I am co-founder of the Research Network on Industrial Decarbonisation (RENEW-Industry) which is a network for scientific researchers in academia and research institutes that focus on Industrial Decarbonisation.
+[Click her to find more information about the network](https://sites.google.com/view/renew-industry). Don't forget to sign up for our newsletter.
+
 Contact
 ======
 Holger Wiertzema  
